@@ -1,0 +1,181 @@
+.patuvane
+{
+color:#E93232;
+background-color:#3E2F2F;
+font-size:25px;
+font-weight:bold;
+}
+
+.townlist
+{
+width:100%;
+}
+.townlist th
+{
+color:yellow;
+}
+
+
+#feed
+{
+text-align:left;
+margin-left:10px;
+margin-right:10px;
+margin-top:5px;
+background-color:white;
+border:2px solid #3BB9BB;
+overflow:auto;
+width:550px;
+height:400px;
+}
+
+.content
+{
+background-color:rgb(99,109,63);
+border:4px inset green;
+width:900px;
+height:800px;
+-moz-border-radius: 15px;
+border-radius: 15px;
+}
+
+.chat
+{
+background-color:#ADEFF0;
+border:4px solid #3BB9BB;
+z-index:120;
+position:absolute;
+top:20px;
+left:300px;
+margin-right:20px;
+margin-top:10px;
+display:none;
+}
+
+.chatbuton
+{
+background-color:red;
+color:black;
+}
+
+
+div.table_info table.main
+{
+background-color:#B3CF58;
+color:white;
+border:4px inset green;
+-moz-border-radius: 15px;
+border-radius: 15px;
+}
+
+div.table_info
+{
+margin-top:20px;
+margin-right:20px;
+float:right;
+}
+
+div.table_inventory
+{
+float:right;
+}
+
+div.table_inventory table.main
+{
+background-color:#B3CF58;
+color:white;
+border:4px inset green;
+}
+
+div.table_info table th
+{
+background-color:green;
+-moz-border-radius: 15px;
+border-radius: 15px;
+}
+
+
+.options
+{
+width:700px;
+height:60px;
+background-color:green;
+margin-bottom:20px;
+-moz-border-radius: 15px;
+border-radius: 15px;
+}
+
+.inoptions
+{
+float:left;
+margin-left:10px;
+margin-top:20px;
+padding-right:10px;
+}
+
+
+div.inoptions a:link {padding-right:10px;text-decoration:none;color:white;}
+div.inoptions a:active {text-decoration:none;color:white;}
+div.inoptions a:visited {text-decoration:none;color:white;}
+div.inoptions a:hover {text-decoration:underline;color:white;background-color:rgb(15,90,0);}
+
+
+form#login {     
+  background-color:rgb(110,122,86);
+  color: #000000;     
+  border: 1px solid #999999;     
+  font-family: Verdana, Arial, Helvetica, sans-serif;     
+  font-size: 10px;
+  width:400px;
+} 
+
+#reg table
+{
+border:1px solid rgb(130,100,86);
+border-collapse:collapse;
+background-color:rgb(100,143,86);
+}
+
+#reg input
+{
+width:200px;
+}
+
+#login .text {
+  font-family: Verdana, Arial, Helvetica, sans-serif;     
+  font-size: 11px;  
+background-color:rgb(110,140,130);
+  width: 100px;     
+  margin-right: 6px;  
+} 
+
+#login .buttons {     
+font-family: Verdana, Arial, Helvetica, sans-serif;     
+font-size: 10px;
+background-color: #333333;     
+color: #FFFFFF;     
+margin-right: 6px; 
+}  
+
+body
+{
+background-color:black;
+background-image:url('gradove/background forest.png');
+background-repeat:no-repeat;
+background-attachment:fixed;
+background-position:center;
+}
+
+.table_logo
+{
+-moz-border-radius: 15px;
+border-radius: 15px;
+border:4px inset green;
+margin-bottom:20px;
+}
+.logo_name
+{
+color:white;
+font-size:40px;
+font-weight:bold;
+}
